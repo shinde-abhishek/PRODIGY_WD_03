@@ -13,9 +13,6 @@ A classic 2-player Tic-Tac-Toe game built with vanilla JavaScript, HTML, and CSS
 - CSS
 - JavaScript
 
-## 📸 Preview
-![Tic Tac Toe Screenshot](screenshot.png)
-
 ## 🚀 Getting Started
 1. Clone the repo:
  ```bash
